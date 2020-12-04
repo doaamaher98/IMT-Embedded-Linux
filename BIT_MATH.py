@@ -1,15 +1,9 @@
 ##################################################
 ###   Author      : Doaa Maher                ####
-###   File 		  : Bit Math Library          ####
+###   File 		  : Bit Math Library  ####
 ###   Date        : 4 Dec 2020                ####
 ###   Version     : 1.0                       ####
 ##################################################
-
-
-
-
-
-
 
 def SET_BIT(VAR,BIT):
 	VAR = int(VAR)
