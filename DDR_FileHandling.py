@@ -1,6 +1,6 @@
 ##################################################################
 ###   Author      : Doaa Maher               		      ####
-###   File 		  : Generating Init function for DDRA ####
+###   File 	  : Generating Init function for DDRA 	      ####
 ###			    In ATMEGA32 uC	      	      ####	  		
 ###   Date        : 4 Dec 2020                		      ####
 ###   Version     : 1.0                                       ####
