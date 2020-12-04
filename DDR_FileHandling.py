@@ -1,10 +1,10 @@
-##########################################################
-###   Author      : Doaa Maher               		  ####
+##################################################################
+###   Author      : Doaa Maher               		      ####
 ###   File 		  : Generating Init function for DDRA ####
-###					In ATMEGA32 uC			  		  ####
-###   Date        : 4 Dec 2020                		  ####
-###   Version     : 1.0                               ####
-##########################################################
+###			    In ATMEGA32 uC	      	      ####	  		
+###   Date        : 4 Dec 2020                		      ####
+###   Version     : 1.0                                       ####
+##################################################################
 file = open("Init.c","a")
 file.write("void Init_PORTA_Direction (void)")
 file.write("\n{")
