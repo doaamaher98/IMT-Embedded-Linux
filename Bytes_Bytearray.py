@@ -1,3 +1,13 @@
+
+########################################################
+###   Author      : Doaa Maher                		####
+###   File 		  : Uses of bytes and bytearray     ####
+###   Date        : 4 Dec 2020                		####
+###   Version     : 1.0                       		####
+########################################################
+
+
+
 # bytes  converts an object to immutable byte represented object of given size and data.
 empty_bytes =bytes(4)
 print(empty_bytes)

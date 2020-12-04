@@ -1,3 +1,10 @@
+##################################################
+###   Author      : Doaa Maher                ####
+###   File 		  : Numpy Library 		      ####
+###   Date        : 4 Dec 2020                ####
+###   Version     : 1.0                       ####
+##################################################
+
 '''
 To install, open your terminal 
 pip install numpy 

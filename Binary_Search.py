@@ -1,3 +1,11 @@
+##################################################
+###   Author      : Doaa Maher                ####
+###   File 		  : Binary Search		      ####
+###   Date        : 4 Dec 2020                ####
+###   Version     : 1.0                       ####
+##################################################
+
+
 # Creating the list
 myList = []
 List_Items = int(input("Enter the number of elements in the list : "))

@@ -1,3 +1,11 @@
+##################################################
+###   Author      : Doaa Maher                ####
+###   File 		  : Loan with installment     ####
+###   Date        : 4 Dec 2020                ####
+###   Version     : 1.0                       ####
+##################################################
+
+
 Loan  = float(input("Please enter the loan value: "))
 Years = float(input("Please enter the number of Years: "))
 

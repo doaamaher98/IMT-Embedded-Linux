@@ -1,3 +1,11 @@
+##################################################
+###   Author      : Doaa Maher                ####
+###   File 		  : Uses of memoryview	      ####
+###   Date        : 4 Dec 2020                ####
+###   Version     : 1.0                       ####
+##################################################
+
+
 #The memoryview() function returns a memory view object of the given argument this is done via Python Buffer Protocol
 #The buffer protocol allows one object to expose its internal data (buffers) and the other to access those buffers without intermediate copying.
 

@@ -1,4 +1,10 @@
-# To do list
+##################################################
+###   Author      : Doaa Maher                ####
+###   File 		  : To do List			      ####
+###   Date        : 4 Dec 2020                ####
+###   Version     : 1.0                       ####
+##################################################
+
 # Adding, printing a new iteam
 # Marking an item as Done and printing
 

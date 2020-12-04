@@ -1,3 +1,10 @@
+##################################################
+###   Author      : Doaa Maher                ####
+###   File 		  : Swapping 2 numbers	      ####
+###   Date        : 4 Dec 2020                ####
+###   Version     : 1.0                       ####
+##################################################
+
 # Taking inputs from the user :
 
 x = input('Enter value of x: ')

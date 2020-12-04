@@ -1,3 +1,11 @@
+##################################################
+###   Author      : Doaa Maher                ####
+###   File 		  : Creating a module    	  ####
+###   Date        : 4 Dec 2020                ####
+###   Version     : 1.0                       ####
+##################################################
+
+
 '''
 Create your own module by module.py 
 Add your functions 
