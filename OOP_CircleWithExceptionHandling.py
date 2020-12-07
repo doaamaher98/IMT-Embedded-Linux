@@ -7,7 +7,7 @@
 class Circle():
     def __init__(self):
         try:
-            self.radius = int(input("please inter your radius: "))
+            self.radius = int(input("Please enter your radius: "))
             if self.radius < 0:
                 raise TypeError("Only integers are allowed")
         except TypeError :
