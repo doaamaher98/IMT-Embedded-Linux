@@ -1,6 +1,6 @@
 ######################################################
-###   Author      : Doaa Maher                    ####
-###   File 		    : GUI Button Image			        ####
+###   Author      : Doaa Maher              	  ####
+###   File 		  : GUI Button Image			  ####
 ###   Date        : 8 Dec 2020                	  ####
 ###   Version     : 1.0                   	      ####
 ######################################################
@@ -20,6 +20,6 @@ photo = PhotoImage(file = "img.png")
 photo = photo.subsample(1,1)
 
 # Set image to overwrite the button and pack it on top
-Button(root , text = "" , image = photo).pack(side = TOP)
+Button(root , text = "Click here!" , image = photo).pack(side = TOP)
 
 mainloop()

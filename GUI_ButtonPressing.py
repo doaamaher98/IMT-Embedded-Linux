@@ -1,9 +1,9 @@
-#####################################################
-###   Author      : Doaa Maher                	 ####
-###   File 	  : GUI Button Pressing tracking ####
-###   Date        : 8 Dec 2020                	 ####
-###   Version     : 1.0                       	 ####
-#####################################################
+######################################################
+###   Author      : Doaa Maher              	  ####
+###   File 		  : GUI Button Pressing tracking  ####
+###   Date        : 8 Dec 2020                	  ####
+###   Version     : 1.0                   	      ####
+######################################################
 from tkinter import *
 
 root = Tk ()
