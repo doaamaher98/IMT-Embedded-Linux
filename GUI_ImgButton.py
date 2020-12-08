@@ -20,6 +20,6 @@ photo = PhotoImage(file = "img.png")
 photo = photo.subsample(1,1)
 
 # Set image to overwrite the button and pack it on top
-Button(root , text = "Click here!" , image = photo).pack(side = TOP)
+Button(root , text = "" , image = photo).pack(side = TOP)
 
 mainloop()
