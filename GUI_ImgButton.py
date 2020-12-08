@@ -1,6 +1,6 @@
 ######################################################
-###   Author      : Doaa Maher              	  ####
-###   File 		  : GUI Button Image			  ####
+###   Author      : Doaa Maher                    ####
+###   File 		    : GUI Button Image			        ####
 ###   Date        : 8 Dec 2020                	  ####
 ###   Version     : 1.0                   	      ####
 ######################################################
