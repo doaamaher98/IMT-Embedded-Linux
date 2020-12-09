@@ -17,7 +17,7 @@ frame= Frame(width = 500, height = 1000)
 
 
 i=0
-while i< 4:
+while i<4:
 	root.columnconfigure(i,minsize='10')
 	i+=1
 i=0
